@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "brownian",
   "VITE_ORDERLY_BROKER_NAME": "Just Another Perp",
   "VITE_BROKER_EOA_ADDRESS": "0x2f5206c2b65ba597d5c1ab86077790ec6fa13a5d",
   "VITE_DISABLE_MAINNET": "false",
